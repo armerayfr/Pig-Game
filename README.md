@@ -33,18 +33,6 @@ This app make your time with your friends FUN. The rule is simple, the winner is
 
 ## How To Use
 
-#### Installation
-
-```html
-npm init
-```
-
-#### Run script
-
-```html
-npm start
-```
-
 ### Flowchart
 
 ![FLOWCHART](./pig-game-flowchart.png)
